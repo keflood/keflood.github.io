@@ -1,9 +1,10 @@
 body {
     margin: auto;
+    background-image: url("https://photos.google.com/album/AF1QipOkAsYAWBmyA4Hjc0VRbQBvQheqcNZZ5CyPi4HC/photo/AF1QipPMU3Q5UITMeQAzdcLhWUVls8aU1oVHFUnrduq2");
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Sans-Serif';
-    padding: 10px;
+    padding: 5px;
     list-style: none;
 }
 nav ul li, footer ul li {
@@ -31,7 +32,7 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 1em;
 }
 
 /*ul.posts {
