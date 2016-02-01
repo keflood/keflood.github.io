@@ -1,14 +1,11 @@
 body {
    margin: auto;
-    background: url("photos.google.com/album/AF1QipOkAsYAWBmyA4Hjc0VRbQBvQheqcNZZ5CyPi4HC/photo/AF1QipPMU3Q5UITMeQAzdcLhWUVls8aU1oVHFUnrduq2");
+    background: url("http://photos.google.com/album/AF1QipOkAsYAWBmyA4Hjc0VRbQBvQheqcNZZ5CyPi4HC/photo/AF1QipPMU3Q5UITMeQAzdcLhWUVls8aU1oVHFUnrduq2");
  background-repeat:no-repeat;
 background-position: center center, center top;
--webkit-background-size: cover;
- -moz-background-size: cover;
- -o-background-size: cover;
  background-size: cover; 
-
 }
+/*
 nav ul, footer ul {
     font-family:'Helvetica', 'Sans-Serif';
     padding: 0px;
@@ -42,7 +39,7 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: 1em;
 }
-
+*/
 /*ul.posts {
     text-align: left;
     margin: 20px auto 40px;
