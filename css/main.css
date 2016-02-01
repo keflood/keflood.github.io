@@ -1,5 +1,7 @@
 body {
     background: url("http://photos.google.com/album/AF1QipOkAsYAWBmyA4Hjc0VRbQBvQheqcNZZ5CyPi4HC/photo/AF1QipPMU3Q5UITMeQAzdcLhWUVls8aU1oVHFUnrduq2");
+    width: 100%;
+    height: 100%;
 }
 /*
 nav ul, footer ul {
