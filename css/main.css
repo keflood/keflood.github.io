@@ -16,12 +16,11 @@ body {
     overflow: hidden;
     border: 1px solid white;
     margin: auto;
-    margin-top: 100px;
 }
 .box:before{
     content: "";
     display: block;
-    padding-top: 50%;
+    padding-top: 100%;
 }
 .box-content{
     position:  absolute;
