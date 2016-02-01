@@ -15,7 +15,7 @@ body {
     position: relative;
     width: 50%;
     overflow: hidden;
-    border: 1px solid white;
+  /*  border: 1px solid white; */
     margin: auto;
 }
 .box:before{
@@ -63,7 +63,6 @@ h1 {
     font-size: 4em;
     font-family:'Arial Narrow', 'Helvetica', 'Sans-Serif';
     margin-top: 100px;
-    font-variant: small-caps;
 }
 p {
     text-align: center;
