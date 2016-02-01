@@ -1,5 +1,5 @@
 body {
-   /* margin: auto;*/
+   margin: auto;
     background-image: url("../http://photos.google.com/album/AF1QipOkAsYAWBmyA4Hjc0VRbQBvQheqcNZZ5CyPi4HC/photo/AF1QipPMU3Q5UITMeQAzdcLhWUVls8aU1oVHFUnrduq2");
  /*  background-repeat:no-repeat;
 background-position: center center, center top;
@@ -27,7 +27,7 @@ a:hover {
 }
 h1 {
     text-align: center;
-    font-size: 120px;
+    font-size: 40%;
     font-family:'Helvetica', 'Sans-Serif';
     margin-top: 100px;
 }
