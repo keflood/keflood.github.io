@@ -10,6 +10,12 @@ body {
     height: 100%;
 }
 
+.box {
+    color: white;
+    width: 25%;
+    height: 30%;
+    marginL 25%;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Sans-Serif';
     padding: 0px;
