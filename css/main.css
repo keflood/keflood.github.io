@@ -38,7 +38,7 @@ body {
 .box-content span {
     display: table-cell;
     text-align: center;
-    vertical-align: middle;
+    /* vertical-align: middle; */
     color: white
 }
 nav ul, footer ul {
