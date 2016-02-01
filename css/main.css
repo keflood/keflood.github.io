@@ -11,10 +11,11 @@ body {
 }
 
 .box {
+    border: 1px solid white;
     color: white;
     width: 25%;
     height: 30%;
-    marginL 25%;
+    margin: 25%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Sans-Serif';
