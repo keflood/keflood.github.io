@@ -42,7 +42,7 @@ body {
     color: white
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Sans-Serif';
+    font-family:'Arial Narrow','Helvetica', 'Sans-Serif';
     padding: 0px;
     list-style: none;
 }
@@ -60,7 +60,7 @@ a:hover {
 h1 {
     text-align: center;
     font-size: 500%;
-    font-family:'Helvetica', 'Sans-Serif';
+    font-family:'Arial Narrow', 'Helvetica', 'Sans-Serif';
     margin-top: 100px;
 }
 p {
