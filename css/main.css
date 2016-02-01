@@ -10,12 +10,35 @@ body {
     height: 100%;
 }
 
-.box {
-    border: 1px solid white;
+.box{
+    position: relative;
+    width: 50%;
+    overflow: hidden;
+    background: grey;
+}
+.box:before{
+    content: "";
+    display: block;
+    padding-top: 50%;
+}
+.box-content{
+    position:  absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
     color: white;
-    width: 25%;
-    height: 30%;
-    margin: 25%;
+}
+.box-content div {
+   display: table;
+   width: 100%;
+   height: 100%;
+}
+.box-content span {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    color: white
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Sans-Serif';
