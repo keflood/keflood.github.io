@@ -2,25 +2,25 @@ body {
     margin: 0px;
     padding: 0px;
     background-color: gray;
-    background-image: url("https://photos.google.com/album/AF1QipOkAsYAWBmyA4Hjc0VRbQBvQheqcNZZ5CyPi4HC/photo/AF1QipPMU3Q5UITMeQAzdcLhWUVls8aU1oVHFUnrduq2");
+    background-image: url("../images/lake.jpg");
     background-repeat: no-repeat;
     background-position: center center, center top;
     background-size: cover;
 }
 #bg {
-  position: fixed; 
-  top: -50%; 
-  left: -50%; 
-  width: 200%; 
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 200%;
   height: 200%;
 }
 #bg img {
-  position: absolute; 
-  top: 0; 
-  left: 0; 
-  right: 0; 
-  bottom: 0; 
-  margin: auto; 
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
   min-width: 50%;
   min-height: 50%;
 }
@@ -68,4 +68,3 @@ footer {
 ul.posts li {
     list-style: none;
 }*/
-
