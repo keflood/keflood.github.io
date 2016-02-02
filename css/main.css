@@ -74,6 +74,7 @@ h1 {
     font-size: 4em;
     font-family:'Lato','Arial Narrow', 'Helvetica', 'Sans-Serif';
     font-weight: 300;
+    font-variant: small-caps;
     margin-top: 100px;
     color: #536872;
 }
