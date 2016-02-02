@@ -27,6 +27,7 @@ html {
     margin-top: 10%;
     margin-right: auto;
     margin-left: auto;
+    color: white;
 }
 .box:before{
     content: "";
@@ -73,13 +74,14 @@ h1 {
     font-size: 4em;
     font-family:'Josefin Sans','Arial Narrow', 'Helvetica', 'Sans-Serif';
     margin-top: 100px;
+    color: #536872;
 }
 p {
     text-align: center;
     font-size: 1.5em;
     line-height: 1.4em;
     font-family:'Josefin Sans','Arial Narrow', 'Helvetica', 'Sans-Serif';
-    color: white;
+    color: #536872;
 }
 footer {
   clear: both;
