@@ -54,7 +54,7 @@ html {
     color: white
 }
 nav ul, footer ul {
-    font-family:'Josefin Sans', 'Arial Narrow','Helvetica', 'Sans-Serif';
+    font-family:'Lato', 'Arial Narrow','Helvetica', 'Sans-Serif';
     padding: 0px;
     list-style: none;
 }
@@ -72,7 +72,8 @@ a:hover {
 h1 {
     text-align: center;
     font-size: 4em;
-    font-family:'Josefin Sans','Arial Narrow', 'Helvetica', 'Sans-Serif';
+    font-family:'Lato','Arial Narrow', 'Helvetica', 'Sans-Serif';
+    font-weight: 300;
     margin-top: 100px;
     color: #536872;
 }
@@ -80,7 +81,8 @@ p {
     text-align: center;
     font-size: 1.5em;
     line-height: 1.4em;
-    font-family:'Josefin Sans','Arial Narrow', 'Helvetica', 'Sans-Serif';
+    font-family:'Lato','Arial Narrow', 'Helvetica', 'Sans-Serif';
+    font-weight: 300;
     color: #536872;
 }
 footer {
