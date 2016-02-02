@@ -21,9 +21,9 @@ html {
 }
 .box{
     position: relative;
-    width: 50%;
+    width: 30%;
     overflow: hidden;
-  /*  border: 1px solid white; */
+    border: 1px solid white;
     margin: auto;
 }
 .box:before{
