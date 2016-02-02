@@ -20,12 +20,13 @@ html {
   overflow: hidden;
 }
 .box{
-    position: relative;
+    position: absolute;;
     width: 30%;
     overflow: hidden;
     border: 1px solid white;
     margin-top: 25%;
-    margin: auto;
+    margin-right: auto;
+    margin-left: auto;
 }
 .box:before{
     content: "";
