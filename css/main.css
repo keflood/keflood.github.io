@@ -20,7 +20,7 @@ html {
   overflow: hidden;
 }
 .box{
-    position: absolute;;
+    position: relative;
     width: 30%;
     overflow: hidden;
     border: 1px solid white;
