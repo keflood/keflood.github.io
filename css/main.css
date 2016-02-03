@@ -40,7 +40,8 @@ html {
     left: 0;
     bottom: 0;
     right: 0;
-    background-color: #e7ebef;
+    background-color: #eff0f0;
+    border: none;
 }
 .box-content div {
    display: table;
