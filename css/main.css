@@ -24,6 +24,7 @@ html {
     width: 30%;
     overflow: hidden;
     border: 1px solid white;
+    margin-top: 5%;
     margin-right: auto;
     margin-left: auto;
     background-color: white;
@@ -31,7 +32,7 @@ html {
 .box:before{
     content: "";
     display: block;
-    padding-top: 110%;
+    padding-top: 120%;
 }
 .box-content{
     position:  absolute;
@@ -41,7 +42,6 @@ html {
     right: 0;
     background-color: #eff0f0;
     border-style: none;
-    border-color: #eff0f0;
 }
 .box-content div {
    display: table;
