@@ -31,7 +31,7 @@ html {
 .box:before{
     content: "";
     display: block;
-    padding-top: 120%;
+    padding-top: 110%;
 }
 .box-content{
     position:  absolute;
