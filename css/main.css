@@ -71,7 +71,7 @@ a:hover {
 }
 h1 {
     text-align: center;
-    font-size: 4em;
+    font-size: 6em;
     font-family:'Lato','Arial Narrow', 'Helvetica', 'Sans-Serif';
     font-weight: 300;
     font-variant: small-caps;
@@ -80,16 +80,15 @@ h1 {
 }
 p {
     text-align: center;
-    font-size: 1.5em;
+    font-size: 2.5em;
     line-height: 1.4em;
     font-family:'Lato','Arial Narrow', 'Helvetica', 'Sans-Serif';
     font-weight: 300;
     color: #536872;
 }
 .icons {
-  display: inline;
-  position: relative;
-  
+  margin: auto;
+  width: 75%;
 }
 footer {
   clear: both;
