@@ -60,7 +60,7 @@ h1 {
     font-size: 6em;
     font-family:'Lato','Arial Narrow', 'Helvetica', 'Sans-Serif';
     font-weight: 300;
-    font-variant: small-caps;
+    /*font-variant: small-caps; */
     margin-top: 100px;
     padding-top: -2em;
     color: #536872;
@@ -75,7 +75,7 @@ p {
 }
 .icons ul {
 margin: 0;
-padding: 0;
+padding: 6em;
 list-style-type: none;
 text-align: center;
 }
