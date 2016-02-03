@@ -78,6 +78,9 @@ margin: 0;
 padding: 6em;
 list-style-type: none;
 text-align: center;
+font-family: 'Lato','Arial Narrow', 'Helvetica', 'Sans-Serif';
+font-weight: 300;
+font-size: 1em;
 }
 
 .icons ul li {
