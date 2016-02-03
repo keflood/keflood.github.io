@@ -41,7 +41,6 @@ html {
     bottom: 0;
     right: 0;
     background-color: #eff0f0;
-    border-style: none;
 }
 .box-content div {
    display: table;
@@ -62,7 +61,7 @@ h1 {
     font-family:'Lato','Arial Narrow', 'Helvetica', 'Sans-Serif';
     font-weight: 300;
     font-variant: small-caps;
-    margin-top: 15em;
+    margin-top: 100px;
     color: #536872;
 }
 p {
