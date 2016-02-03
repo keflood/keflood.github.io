@@ -82,6 +82,10 @@ text-align: center;
 
 .icons ul li {
   display: inline;
+  font-family: 'Lato','Arial Narrow', 'Helvetica', 'Sans-Serif';
+  font-weight: 300;
+  font-size: 1em;
+  color: #9ca5a5;
 }
 
 .icons ul li a
