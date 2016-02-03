@@ -78,10 +78,6 @@ margin: 0;
 padding: 6em;
 list-style-type: none;
 text-align: center;
-font-family: 'Lato','Arial Narrow', 'Helvetica', 'Sans-Serif';
-font-weight: 300;
-font-size: 1em;
-color: #9ca5a5;
 }
 
 .icons ul li {
@@ -92,7 +88,10 @@ color: #9ca5a5;
 {
 text-decoration: none;
 padding: 12em 1em;
-color: #fff;
+font-family: 'Lato','Arial Narrow', 'Helvetica', 'Sans-Serif';
+font-weight: 300;
+font-size: 1em;
+color: #9ca5a5;
 }
 
 .icons ul li a:hover
