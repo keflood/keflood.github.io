@@ -66,16 +66,15 @@ h1 {
 }
 p {
     text-align: center;
-    font-size: 2.5em;
+    font-size: 2em;
     line-height: 1.4em;
     font-family:'Lato','Arial Narrow', 'Helvetica', 'Sans-Serif';
     font-weight: 300;
     color: #536872;
 }
-.icons ul
-{
+.icons ul {
 margin: 0;
-padding: 0;
+padding: 2em;
 list-style-type: none;
 text-align: center;
 }
@@ -87,7 +86,7 @@ text-align: center;
 .icons ul li a
 {
 text-decoration: none;
-padding: 1em 1em;
+padding: 5em 1em;
 color: #fff;
 }
 
