@@ -84,7 +84,7 @@ text-align: center;
   display: inline;
   font-family: 'Lato','Arial Narrow', 'Helvetica', 'Sans-Serif';
   font-weight: 300;
-  font-size: 1em;
+  font-size: 1.5em;
   color: #9ca5a5;
 }
 
@@ -92,10 +92,6 @@ text-align: center;
 {
 text-decoration: none;
 padding: 12em 1em;
-font-family: 'Lato','Arial Narrow', 'Helvetica', 'Sans-Serif';
-font-weight: 300;
-font-size: 1em;
-color: #9ca5a5;
 }
 
 .icons ul li a:hover
