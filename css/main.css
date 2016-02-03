@@ -41,7 +41,7 @@ html {
     bottom: 0;
     right: 0;
     background-color: #eff0f0;
-    border: none;
+    border-color: #eff0f0;
 }
 .box-content div {
    display: table;
