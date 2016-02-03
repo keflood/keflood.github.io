@@ -50,6 +50,7 @@ html {
 .box-content span {
     display: table-cell;
     text-align: center;
+    margin-top: 15%;
     /* vertical-align: middle; */
     color: white
 }
@@ -86,9 +87,30 @@ p {
     font-weight: 300;
     color: #536872;
 }
-.icons {
-  margin: auto;
-  width: 75%;
+.icons ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: center;
+}
+
+.icons ul li {
+  display: inline;
+}
+
+.icons ul li a
+{
+text-decoration: none;
+padding: .2em 1em;
+color: #fff;
+background-color: #036;
+}
+
+.icons ul li a:hover
+{
+color: #fff;
+background-color: #369;
 }
 footer {
   clear: both;
