@@ -74,7 +74,7 @@ p {
 }
 .icons ul {
 margin: 0;
-padding: 5em;
+padding: 0;
 list-style-type: none;
 text-align: center;
 }
@@ -86,7 +86,7 @@ text-align: center;
 .icons ul li a
 {
 text-decoration: none;
-padding: 1em 1em;
+padding: 12em 1em;
 color: #fff;
 }
 
